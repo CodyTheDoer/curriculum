@@ -1398,4 +1398,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Matt's Solution](https://mattmiller1989.github.io/RockPaperScissors/) - [View in Browser](https://mattmiller1989.github.io/RockPaperScissors/)
 - [meganeb-afk's Solution](https://github.com/meganeb-afk/rps)
 - [Wil Goolsbys's Solution](https://wgoolsby.github.io/rock-paper-scissors) - [View in Browser](https://wgoolsby.github.io/rock-paper-scissors)
+- [CodytheDoer's Solution](https://github.com/CodyTheDoer/rock-paper-scissors/blob/master/index.html)
 </details>
